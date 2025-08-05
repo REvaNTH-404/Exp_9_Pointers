@@ -64,5 +64,3 @@ Learning about pointers was eye-opening as it revealed how C++ interacts with me
 
 ---
 
-🧾 *Authored by: Varnika Maurya*  
-🆔 *PRN: 24070123160*
